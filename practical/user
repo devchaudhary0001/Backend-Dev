@@ -1,0 +1,8 @@
+User {
+  id
+  name
+  email
+  passwordHash
+  role        // "user" or "admin"
+  createdAt
+}
